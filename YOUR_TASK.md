@@ -1,8 +1,8 @@
 ### 2.1 - Output & the Console
-###### ICS3U - Mr. Brash 🐿️
+###### ICS3U - Mr. J 🐠
 
 # 📝 Your Tasks:
-(Read carefully and work with a partner if you are struggling - ask Mr. Brash only after asking a classmate)
+(Read carefully and work with a partner if you are struggling - ask Mr. J only after asking a classmate)
 
 - This repo has been setup already for you with an [HTML page](./index.html) and a [JavaScript code file](./main.js).
 - When you preview the HTML page, the JavaScript will run in the background after the page loads!
@@ -28,6 +28,6 @@ o  x  o
 x  o  x
 ```
 
-When you are sure that you've followed the instructions _perfectly_, ask Mr. Brash to check your work.
+When you are sure that you've followed the instructions _perfectly_, ask Mr. J to check your work.
 
-🕒 If you finish with class time left, you can complete [the ISU](https://classroom.google.com)
+🕒 If you finish with class time left, you can complete [the ISU (Unit 0)](https://classroom.google.com)
