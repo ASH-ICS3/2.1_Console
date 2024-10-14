@@ -1,8 +1,9 @@
 [![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-2972f46106e565e64193e422d61a12cf1da4916b45550586e14ef0a7c637dd04.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=16438049)
 # 2.1 - Output & the Console
-###### ICS3U - Mr. Brash 🐿️
+###### ICS3 - Mr. Jamieson 🐠
 
-Congratulations - we wrote the [Hello World! program](https://en.wikipedia.org/wiki/%22Hello,_World!%22_program) together! If you missed that - go to [Mr. Brash's website](https://www.brash.ca/ics3/2/1).
+
+Congratulations - we wrote the [Hello World! program](https://en.wikipedia.org/wiki/%22Hello,_World!%22_program) together!
 
 <hr><br>
 
@@ -39,5 +40,4 @@ One last thing - every time you use the `console.log( )` command, it automatical
 ### Go check out [your task](./YOUR_TASK.md).
 
 <br><br>
-
-🐿️
+🐠
